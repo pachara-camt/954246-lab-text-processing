@@ -1,0 +1,12 @@
+Adam Smith
+10
+DEPOSIT 1000.75
+dEpOsIt 400
+withdraw 100
+WITHDRAW 49.50
+wItHDrAw 49.50
+balANCE 20
+DEPOXXX 10
+TransFer -500
+TRANSFER 300
+Opposit 200

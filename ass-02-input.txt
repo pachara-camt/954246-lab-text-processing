@@ -1,0 +1,8 @@
+7
+Book
+Note book
+Eraser
+Ruler
+Pen
+Clutch-type pencil
+Calculator
